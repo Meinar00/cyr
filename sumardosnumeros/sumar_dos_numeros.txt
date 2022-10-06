@@ -1,0 +1,13 @@
+Realiza el diagrama de flujo correspondiente al algoritmo con los siguientes pasos:
+
+1. Te pregunta un número entre 1 y 10
+
+2. Comprueba si está entre 1 y 10
+
+3. Te pregunta otro número entre 1 y 10
+
+4. Comprueba si está entre 1 y 10
+
+5, Te da el resultado de sumas los dos números
+
+
