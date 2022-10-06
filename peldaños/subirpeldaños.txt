@@ -1,0 +1,12 @@
+Subir escaleras/peldaños
+
+
+1.- Levantar la pierna izquierda
+
+2.- Avanzar 10cm la pierna
+
+3.- Levantar la pierna derecha
+
+4.- Avanzar la pierna derecha
+
+5.- Repetir 10 veces con cuadro de decision 
