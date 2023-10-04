@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" modified="2023-10-04T12:48:04.142Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0" etag="25tQ_6SxO59WEROF-4ei" version="22.0.2" type="device">
+  <diagram name="Página-1" id="_BRIqXboFVfrqp_vQRh6">
+    <mxGraphModel dx="478" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUA_RDrrcOZnOVkDenzU-1" target="zUA_RDrrcOZnOVkDenzU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUA_RDrrcOZnOVkDenzU-2" target="zUA_RDrrcOZnOVkDenzU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-2" value="Coger el cepillo de dientes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUA_RDrrcOZnOVkDenzU-4" target="zUA_RDrrcOZnOVkDenzU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-4" value="Coger la pasta de dientes" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="361" y="260" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUA_RDrrcOZnOVkDenzU-6" target="zUA_RDrrcOZnOVkDenzU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-6" value="Echar pasta de dientes en el cepillo" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="330" width="111" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUA_RDrrcOZnOVkDenzU-10" target="zUA_RDrrcOZnOVkDenzU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-16" value="&lt;div&gt;Si&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zUA_RDrrcOZnOVkDenzU-13">
+          <mxGeometry x="-0.35" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zUA_RDrrcOZnOVkDenzU-10" target="zUA_RDrrcOZnOVkDenzU-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="501" y="430" />
+              <mxPoint x="501" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-15" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zUA_RDrrcOZnOVkDenzU-14">
+          <mxGeometry x="-0.0566" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Tiene &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;suficiente pasta de dientes&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUA_RDrrcOZnOVkDenzU-12" target="zUA_RDrrcOZnOVkDenzU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-12" value="Meter el cepillo de dientes en la boca" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="357" y="500" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUA_RDrrcOZnOVkDenzU-17" target="zUA_RDrrcOZnOVkDenzU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-17" value="Cepillar los dientes durante 2 minutos" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="357" y="565" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUA_RDrrcOZnOVkDenzU-19" target="zUA_RDrrcOZnOVkDenzU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-19" value="Enjuagarse" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="357" y="630" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUA_RDrrcOZnOVkDenzU-23" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="700" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
